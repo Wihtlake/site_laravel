@@ -1,0 +1,101 @@
+.cart {
+	margin-top: 100px;
+}
+button{
+
+}
+.cart_first_block {
+	display: flex;
+}
+.cart_first_image {
+	margin-right: 50px;
+}
+.cart_first_image img{
+	width: 580px;
+	height: 480px;
+	object-fit: cover;
+}
+.cart_first_text h2{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 28px;
+	line-height: 34px;
+	color: #000000;
+	margin-bottom: 52px;
+}
+.cart_first_text p{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	color: #000000;
+	margin-bottom: 25px;
+}
+.cart_second_block p{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.085em;
+	color: #000000;
+	margin-top: 56px;
+}
+
+.cart_first_text .button{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+	letter-spacing: 0.085em;
+	color: #000000;
+	padding: 15px 118px;
+	margin-top: 79px;
+	border: 1px solid #000000;
+	background: transparent;
+	cursor: pointer;
+	transition: all .2s ease-in-out;
+
+}
+.button:hover{
+	background: #000;
+	color: #ffff;
+	transition: all .2s ease-in-out;
+
+}
+.input_cout{
+	padding-top: 20px;
+
+}
+.cart_input{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+	color: #000000;
+	padding: 15px 0px;
+	border: 1px solid #000000;
+	background: transparent;
+	cursor: pointer;
+	margin-top: -50px;
+}
+
+.cart_input_p {
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	letter-spacing: 0.085em;
+	color: #000000;
+}
+.cart_input {
+	width: 100%;
+}
+
+
+
+
+
